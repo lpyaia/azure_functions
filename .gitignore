@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AzureFunctions/Models/obj
+/AzureFunctions/Models/bin/Debug/netcoreapp3.1
+/AzureFunctions/.vs/AzureFunctions
